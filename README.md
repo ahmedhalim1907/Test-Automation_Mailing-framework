@@ -1,2 +1,2 @@
-# Test-Automation_Mailing-framework
+# TestAutomation_MailingFramework
 Simple_Data driven_Test Automation framework_Using_Selenium_TestNG_selion
